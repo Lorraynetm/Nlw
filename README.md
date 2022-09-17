@@ -7,7 +7,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https//lorraynetm.github.io/nlw)
+[🔗 Clique aqui para acessar](https://lorraynetm.github.io/Nlw/)
 
 ## 🛠️ Tecnologias
 
